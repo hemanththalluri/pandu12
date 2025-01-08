@@ -1,8 +1,3 @@
-print("Hello World")
-
-l=["one","two","three"]
-print(l[1])
-
 # Creating the dictionary with column names as keys
 students_data = {
     "Student_ID": [],
